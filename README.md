@@ -3,14 +3,23 @@ Fortnite External Cheat Source
 Credits: WhoIsLOLTF#5783
 
 
+
 [ + ] Updated to Latest Patch 05.03.2023
+
 [ + ] Added new Driver
+
 [ + ] Added new GetBoneWithRoation
+
 [ + ] Added Aim-While-Jumping
+
 [ + ] Added CarFly
+
 [ + ] Added InstaRes 
+
 [ + ] AirStuck
+
 [ + ] Added Dynamic Esp 
+
 [ + ] Added Skeleton Esp
 
 How To use?
