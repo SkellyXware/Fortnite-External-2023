@@ -25,8 +25,11 @@ Credits: WhoIsLOLTF#5783
 How To use?
 
 -Run The .sln file
+
 -build the source
+
 -run the RunDriver.exe
+
 -then run your built file
 
 HAVE FUN MAKING KIDS CRY!!!
